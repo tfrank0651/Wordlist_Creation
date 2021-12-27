@@ -11,3 +11,9 @@ Numlist.py takes 3 parameters, creates the specified output file containing all 
 1. output file path
 2. minimum length of word
 3. maximum length of word
+
+# hex_keys.py
+Created for use in CS 5323 - Principles of Cybersecurity. Creates a wordlist containing all possible permutations of 64 bit hex values. This program was used to assist in breaking DES encryption.
+
+hex_keys.py takes 1 paramater, generates all permutatiuons and saves in the specified output file.
+1. output file path
